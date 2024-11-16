@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a web and mobile developer with 4 years of experience <br>in full-stack development. I enjoy taking on projects <br>independently and collaborating with teams to create <br>efficient and innovative solutions that deliver impactful results.<br><br><br><br><br><br><br>
+I am a web and mobile developer with 4 years of experience in full-stack development. I enjoy taking on projects independently and collaborating with teams to create efficient and innovative solutions that deliver impactful results
 
 
 ## 🌐 Socials:
